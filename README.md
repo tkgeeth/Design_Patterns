@@ -1,4 +1,4 @@
-# Design_Patterns
+# Design Patterns
 Java Design Patterns
 
 This contains the Java Implementation for the Design patters..
